@@ -5,7 +5,7 @@
 pip install loguru,requests,solders
 ````
 
-## 打码注册
+## 打码注册(此链接注册进群免费领10000点数)
 https://www.nocaptcha.io/register?c=hQxLji
 
 ## 复制个人密钥
